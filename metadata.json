@@ -1,0 +1,5 @@
+{
+  "name": "Comic Strip Generator",
+  "description": "An AI-powered application that transforms your stories into comic strips. Provide a short story, choose a visual style, and watch as it generates a character reference sheet and a series of comic panels to bring your narrative to life.",
+  "requestFramePermissions": []
+}
